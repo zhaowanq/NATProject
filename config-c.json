@@ -1,0 +1,9 @@
+{
+  "RDP": {
+      "commonPort": "7000",
+      "remoteIP": "60.205.255.170",
+      "remotePort": "8000",
+      "localIP": "127.0.0.1",
+      "localPort": "3389"
+  }
+}
